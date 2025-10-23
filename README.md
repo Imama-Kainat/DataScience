@@ -30,5 +30,3 @@ This repository serves as a quick reference and learning collection for students
 **Imama Kainat**  
 *BS Software Engineering | Data Science & AI Enthusiast*  
 Feel free to connect on [LinkedIn](https://linkedin.com/in/imama-kainat) for collaborations and guidance.
-
-Would you like me to generate this file with your **actual GitHub repo link** (I can use the URL from your screenshot)?
